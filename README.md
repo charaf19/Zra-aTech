@@ -138,9 +138,5 @@ By combining **technology, science, and local expertise**, ZraïaTech contribute
 
 ---
 
-```
 
----
 
-⚡Would you like me to also design a **README badge set** (like “Made with Python”, “License MIT”, “Build Passing”, “Open to Contributions”) so your repo looks polished and competition-ready?
-```
